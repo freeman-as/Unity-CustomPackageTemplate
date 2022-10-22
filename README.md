@@ -1,4 +1,4 @@
 # Unity-CustomPackageTemplate
 
 ## Import
-https://github.com/hecomi/uOSC?path=/Packages/jp.freeman-as.custom-pacakage-template
+https://github.com/freeman-as/Unity-CustomPackageTemplate?path=/CustomPackageTemplate/Packages/jp.freeman-as.custom-pacakage-template
