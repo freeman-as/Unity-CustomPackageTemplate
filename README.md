@@ -1,4 +1,4 @@
 # Unity-CustomPackageTemplate
 
-## Import
-https://github.com/freeman-as/Unity-CustomPackageTemplate?path=/CustomPackageTemplate/Packages/jp.freeman-as.custom-pacakage-template
+## Add git url from Unity
+https://github.com/freeman-as/Unity-CustomPackageTemplate.git?path=CustomPackageTemplate/Packages/jp.freeman-as.custom-pacakage-template
